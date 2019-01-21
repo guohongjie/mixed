@@ -1,5 +1,7 @@
 #!/usr/bin python
 #-*-coding:utf-8 -*-
+#Author:guohongjie
+#BOSS直聘自动投递打招呼语
 from bs4 import BeautifulSoup
 import time
 import re
